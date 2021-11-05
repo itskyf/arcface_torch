@@ -1,5 +1,7 @@
 # Distributed Arcface Training in Pytorch
 
+I "fork" this directory in order to study. The great main repository is [InsightFace](https://github.com/deepinsight/insightface)
+
 This is a deep learning library that makes face recognition efficient, and effective, which can train tens of millions
 identity on a single server.
 
