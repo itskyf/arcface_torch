@@ -1,0 +1,28 @@
+name: arcface_torch
+channels:
+  - nvidia
+  - pytorch
+  - conda-forge
+dependencies:
+  - cudatoolkit=11.3
+  - pytorch
+  - torchvision
+  - matplotlib
+  - menpo
+  - pandas
+  - prettytable
+  - py-opencv
+  - scikit-image
+  - scikit-learn
+  - black
+  - flake8
+  - flake8-bugbear
+  - flake8-builtins
+  - flake8-comprehensions
+  - flake8-isort
+  - ipykernel
+  - isort
+  - pep8-naming
+  - pip
+  - pip:
+      - webdataset
